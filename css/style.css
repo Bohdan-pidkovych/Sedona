@@ -139,10 +139,13 @@ input[type="radio"].visually-hidden {
   padding-bottom: 73px;
 }
 
+.advantages {
+  padding-top: 60px;
+}
+
 .advantages-title {
   width: 440px;
   margin: 0 auto;
-  margin-top: 60px;
   font-size: 21px;
   line-height: 26px;
   font-weight: 700;
